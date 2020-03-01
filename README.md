@@ -1,2 +1,2 @@
 # termux-ecj-dx
-A shell for ecj and dx in termux
+Termux搭建简单java环境的shell脚本
